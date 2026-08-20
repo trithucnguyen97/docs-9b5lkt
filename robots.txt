@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4toh76.isototo67lak.cfd/sitemap.xml
